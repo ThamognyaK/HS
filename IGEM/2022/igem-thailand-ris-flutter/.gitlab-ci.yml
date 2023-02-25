@@ -1,0 +1,38 @@
+stages:
+  - build
+  - deploy
+
+cache:
+  paths:
+    - $CI_PROJECT_DIR/.pub-cache/
+
+before_script:
+  - flutter config --enable-web
+  - flutter pub get
+  - export PUB_CACHE=$CI_PROJECT_DIR/.pub-cache
+  - export PATH="$PATH":"$PUB_CACHE/bin"
+
+pages:
+  stage: build
+  image: "cirrusci/flutter:latest"
+  script:
+    - bash ./pages/buildEachOne.sh
+    - ls public
+  only:
+    - main
+
+
+
+pages:
+  stage: build
+  image: python:3.6
+  script:
+  - pip install --no-cache-dir -r ./requirements.txt
+  - FLASK_APP=main.py flask freeze
+  artifacts:
+    paths:
+    - public
+  only:
+  - main
+
+
