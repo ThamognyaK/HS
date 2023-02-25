@@ -1,0 +1,25 @@
+image: node
+
+before_script:
+  - npm install
+
+cache:
+  paths:
+    - node_modules/
+    - .next/cache/
+
+pages:
+  before_script:
+    - npm run build
+  script:
+    - npm run export
+    - rm -rf public/*
+    - mv out/* public
+  after_script:
+    - rm -rf out
+    - ls
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
