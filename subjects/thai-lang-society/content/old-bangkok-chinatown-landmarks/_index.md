@@ -11,6 +11,9 @@ Sanam Luang, or the Royal Field, is a public park that was used in the past for 
 Wat Phra Chetuphon, also known as Wat Pho, is one of the largest and oldest temples in Bangkok. It is famous for its giant reclining Buddha statue and traditional Thai massage school.
 The Giant Swing and Wat Sutat are two religious landmarks that are part of a Brahmin ceremony performed every year. The Giant Swing, a tall wooden structure, was used in the past as a rite of passage for young men to prove their bravery.
 
+The Giant Swing ceremony was a Brahmin ritual that was performed in front of the Giant Swing, a tall wooden structure located in the Rattanakosin area of Bangkok. The ceremony was performed to ask for blessings from the gods and was considered a rite of passage for young men to prove their bravery. The ritual involved a group of young men climbing up the Giant Swing and then swinging back and forth in the air while attempting to grab a bag of gold coins with their teeth.
+The ceremony was discontinued in 1932 when Thailand transitioned to a constitutional monarchy, and the Giant Swing was later moved to its current location near Wat Sutat. Today, the ceremony is no longer performed, but the Giant Swing remains a popular tourist attraction and cultural landmark in Bangkok. Visitors can learn more about the history and significance of the ceremony by visiting the nearby Wat Sutat temple, which houses a shrine dedicated to the Giant Swing.
+
 -   The Democracy Monument is a political symbol of Thailand's transition to democracy in 1932. It features a central column surrounded by four wings, representing the branches of the Thai government.
 -   The Metal Castle at Wat Rachanadda is a unique structure made entirely of metal and is one of only a few in the world.
 -   The Golden Mount at Wat Saket is a Buddhist temple featuring a large golden chedi, or pagoda, on top of a man-made hill.
