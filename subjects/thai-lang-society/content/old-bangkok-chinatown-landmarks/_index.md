@@ -37,6 +37,12 @@ Main River of BKK:
 ![a](https://d2d3n9ufwugv3m.cloudfront.net/w1200-h900-cfill/topics/faWS0-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93_%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B9%84%E0%B8%A7%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B9%8C.jpg)
 ![b](https://static.bangkokpost.com/media/content/20180517/c1_1467010_180517080052.jpg)
 
+# Chinatown
+
+Chinatown in Bangkok, also known as Yaowarat, is a vibrant district that reflects the unique culture and traditions of Chinese immigrants who have lived in Thailand for centuries. The district is famous for its bustling markets, street food, traditional architecture, and cultural landmarks. One of the most famous landmarks in Chinatown is the Wat Mangkon Kamalawat, a large temple that is renowned for its Chinese-style architecture and vibrant decorations. The temple is a popular attraction among both locals and tourists, who come to pay their respects to the Buddha and enjoy the tranquil atmosphere of the temple.
+Another famous landmark in Chinatown is the Odeon Circle, a historic monument that dates back to the early 20th century. The circle is located at the entrance of Chinatown and features a large archway that is decorated with intricate Chinese designs. It is a popular spot for taking photos and has become an iconic symbol of Chinatown in Bangkok.
+One of the most unique features of Chinatown is its street food culture. The district is home to numerous food stalls and restaurants that offer a variety of Chinese and Thai dishes. From delicious seafood to traditional dim sum, visitors to Chinatown can experience the rich and diverse flavors of Chinese and Thai cuisine. Overall, Chinatown in Bangkok is a must-visit destination for anyone interested in experiencing the rich cultural heritage of Chinese immigrants in Thailand.
+
 # Summary:
 
 The city of Bangkok is home to numerous landmarks and historic sites that are of great cultural significance to the Thai people. The Rattanakosin side of the city is particularly rich in history and cultural landmarks, including the Grand Palace and the Temple of the Emerald Buddha, which are considered two of the most important landmarks in the first settled area of the Rattanakosin Era. The Grand Palace, which was the residence of the Thai King for 150 years, is a stunning display of traditional Thai architecture and craftsmanship, while the Temple of the Emerald Buddha houses a highly revered statue of the Buddha carved from a single block of jade.
