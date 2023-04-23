@@ -43,12 +43,71 @@ def cleanse_data(data: np.ndarray) -> np.ndarray:
         cleaned_data.append(cleaned_arr)
     return np.array(cleaned_data).T
 
+
+# def plot(concentration: np.ndarray, mean: np.ndarray, ci: np.ndarray, title: str) -> None:
+#     # Fit a polynomial line of best fit (degree 2) to the data using NumPy's polyfit function
+#     coeffs = np.polyfit(concentration, mean, 2)
+#     line_of_best_fit = np.poly1d(coeffs)(concentration)
+    
+#     # Calculate the R-squared value
+#     residuals = mean - line_of_best_fit
+#     ss_res = np.sum(residuals ** 2)
+#     ss_tot = np.sum((mean - np.mean(mean)) ** 2)
+#     r_squared = 1 - (ss_res / ss_tot)
+    
+#     # Calculate the midpoint between the third and fourth points
+#     midpoint = (concentration[2] + concentration[3]) / 2
+    
+#     # Evaluate the line of best fit at the midpoint to get the isotonic solution value
+#     isotonic_value = np.poly1d(coeffs)(midpoint)
+    
+#     # Plot the data and the line of best fit
+#     plt.errorbar(concentration, mean, yerr=ci, fmt='o', capsize=5)
+#     plt.plot(concentration, line_of_best_fit, color='red', label=f"Line of best fit (R² = {r_squared:.2f})")
+    
+#     # Add a vertical line at the midpoint between the third and fourth points
+#     plt.axvline(x=midpoint, color='green', linestyle='--', label=f'Isotonic ({midpoint})')
+    
+#     # Add a horizontal line at the isotonic solution value
+#     plt.axhline(y=isotonic_value, color='blue', linestyle='--', label=f'Isotonic Value ({isotonic_value:.2f})')
+    
+#     plt.xlabel('Concentration of Sucrose Solution (M)')
+#     plt.ylabel('Percent Change in Average Mass (%)')
+#     plt.title(title)
+#     plt.legend()
+#     plt.show()
+
 def plot(concentration: np.ndarray, mean: np.ndarray, ci: np.ndarray, title: str) -> None:
+    # Fit a polynomial line of best fit (degree 2) to the data using NumPy's polyfit function
+    coeffs = np.polyfit(concentration, mean, 2)
+    line_of_best_fit = np.poly1d(coeffs)(concentration)
+    
+    # Calculate the R-squared value
+    residuals = mean - line_of_best_fit
+    ss_res = np.sum(residuals ** 2)
+    ss_tot = np.sum((mean - np.mean(mean)) ** 2)
+    r_squared = 1 - (ss_res / ss_tot)
+    
+    # Calculate the isotonic solution value as the concentration that gives a percent change in mass of 100%
+    isotonic_value = 100
+    isotonic_concentration = (isotonic_value - coeffs[2]) / coeffs[1]
+    
+    # Plot the data and the line of best fit
     plt.errorbar(concentration, mean, yerr=ci, fmt='o', capsize=5)
+    plt.plot(concentration, line_of_best_fit, color='green', label=f"Line of best fit: y = {coeffs[0]:.2f}x^2 + {coeffs[1]:.2f}x + {coeffs[2]:.2f} (R² = {r_squared:.2f})")
+    
+    # Add a vertical line at the isotonic concentration
+    plt.axvline(x=isotonic_concentration, color='gray', linestyle='--', label=f'Isotonic: {isotonic_concentration:.2f} M')
+    
+    # Add a horizontal line at the isotonic solution value
+    plt.axhline(y=isotonic_value, color='blue', linestyle='--', label=f'Isotonic Value ({isotonic_value:.2f}%)')
+    
     plt.xlabel('Concentration of Sucrose Solution (M)')
     plt.ylabel('Percent Change in Average Mass (%)')
     plt.title(title)
+    plt.legend()
     plt.show()
+
 
 def plot_raw() -> None:
     raw_mean: np.ndarray = calculate_mean(raw_initial_mass, raw_final_mass)
