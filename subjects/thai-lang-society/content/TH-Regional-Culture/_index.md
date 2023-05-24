@@ -54,19 +54,35 @@ As you journey through Thailand, you'll be captivated by the warm smiles of the 
 
 Songkran Festival (Central and Nationwide): Songkran, also known as the Thai New Year, is celebrated across the country. It usually takes place in mid-April and is known for its famous water fights. People joyfully splash water on each other to cleanse away the old year and welcome the new one.
 
+
+
 Yi Peng Lantern Festival (Northern - Chiang Mai): Yi Peng Lantern Festival is a magical celebration that takes place in Chiang Mai, usually in November. Thousands of paper lanterns, known as khom loi, are released into the night sky, creating a mesmerizing display of floating lights. It is believed to bring good luck and symbolize the release of misfortunes.
+
+![a](https://nationaltoday.com/wp-content/uploads/2022/06/Yi-Peng-Lantern-Festival.jpg)
 
 Bun Bang Fai Rocket Festival (Northeastern - Isan Region): Bun Bang Fai, also known as the Rocket Festival, is a vibrant event celebrated in the northeastern region of Thailand. It usually takes place in May. The festival involves the launching of homemade rockets into the sky, accompanied by lively parades, traditional music, and dance performances.
 
+![a](https://www.asiadmc.com/sites/default/files/Thailand_rocket_fes_1.jpg)
+
 Loi Krathong Festival (Central and Nationwide): Loi Krathong is a beautiful festival celebrated throughout Thailand, usually in November. It involves floating decorative baskets, known as krathongs, on rivers, lakes, and canals. These krathongs are made of banana leaves, flowers, candles, and incense. The festival is a way to pay respects to the water spirits and release negative energy.
+
+![a](https://a.cdn-hotels.com/gdcs/production70/d89/f64c8acb-a5de-4b92-9b81-f563c637d648.jpg)
 
 Phi Ta Khon Festival (Northeastern - Dan Sai, Loei): Phi Ta Khon, also known as the Ghost Festival, is a unique and colorful festival celebrated in the town of Dan Sai in Loei province. It usually takes place in June or July. Participants wear ghost-like masks and costumes, parade through the town, and engage in lively and playful activities.
 
+![a](https://www.tatnews.org/wp-content/uploads/2018/04/Phi-Ta-Khon-Festival-2018-1.jpg)
+
 Vegetarian Festival (Southern - Phuket): The Vegetarian Festival, also known as the Nine Emperor Gods Festival, is widely celebrated in Phuket and other southern provinces. It usually takes place in September or October. Devotees observe strict vegetarian diets and participate in various ceremonies and processions to purify themselves and seek blessings.
+
+![a](https://content.phuket101.net/wp-content/uploads/20210823214703/phuket-vegetarian-festival-1400x932.jpg)
 
 Bun Phawet Festival (Central - Ayutthaya): Bun Phawet is a traditional festival held in Ayutthaya, a historical city near Bangkok. It is celebrated on the full moon day of the sixth lunar month (around August). The festival involves paying homage to deceased relatives and ancestors by making merit, offering food to monks, and floating miniature boats made of banana leaves.
 
+![a](https://www.vanguardvoyager.com/wp-content/uploads/2018/03/DSC00606-1024x683.jpg)
+
 Buffalo Racing Festival (Central - Chonburi): The Buffalo Racing Festival, held in Chonburi province, is an exhilarating event that takes place annually in October. Buffalos are trained and raced by local farmers in a friendly competition. The festival also includes a range of cultural activities, parades, and beauty contests.
+
+![a](https://static.bangkokpost.com/media/content/20220626/c1_2334168.jpg)
 
 ### Thai Culture: Do's and Dont's
 
