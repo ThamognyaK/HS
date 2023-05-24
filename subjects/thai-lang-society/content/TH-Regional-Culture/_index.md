@@ -54,7 +54,7 @@ As you journey through Thailand, you'll be captivated by the warm smiles of the 
 
 Songkran Festival (Central and Nationwide): Songkran, also known as the Thai New Year, is celebrated across the country. It usually takes place in mid-April and is known for its famous water fights. People joyfully splash water on each other to cleanse away the old year and welcome the new one.
 
-
+![a](https://xx.bstatic.com/xdata/images/xphoto/1182x887/207037303.jpg?k=7a6e0e7bb7d349829eb6b4622094bfb7c5c6543867332fb11a760d18be9c689e&o=?size=M)
 
 Yi Peng Lantern Festival (Northern - Chiang Mai): Yi Peng Lantern Festival is a magical celebration that takes place in Chiang Mai, usually in November. Thousands of paper lanterns, known as khom loi, are released into the night sky, creating a mesmerizing display of floating lights. It is believed to bring good luck and symbolize the release of misfortunes.
 
@@ -90,6 +90,8 @@ Thailand, known as the "Land of Smiles," is a country with a rich cultural herit
 
 #### Thai Culture: Do's in Thai Temples
 
+![a](https://www.tripsavvy.com/thmb/H7IkVGA66kVlSzRY78MbX3iYT-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thailand-temple-etiquette-1458306-v1-5bd9afd846e0fb005133718d.png)
+
 Thailand, a country renowned for its vibrant culture and rich heritage, is home to numerous breathtaking temples. These sacred sites, known as "wats," hold immense religious significance for the Thai people and offer visitors a glimpse into the country's spiritual traditions. When visiting these temples, it is important to observe certain do's to ensure a respectful and meaningful experience. Let's explore some essential guidelines to follow when visiting Thai temples.
 
 1. Dress Appropriately: Dressing appropriately is of utmost importance when entering a Thai temple. Both men and women should wear clothing that covers their shoulders and extends below the knees. Opt for loose-fitting attire made of lightweight fabric, which will not only adhere to temple etiquette but also help you stay comfortable in the tropical climate. By dressing modestly, you show respect for the sanctity of the temple and the local customs.
@@ -107,6 +109,8 @@ Thailand, a country renowned for its vibrant culture and rich heritage, is home 
 By following these do's, you can ensure that your visit to a Thai temple is not only respectful but also allows you to immerse yourself in the spiritual atmosphere and appreciate the cultural heritage of Thailand. Show reverence for the sacred space, observe the customs, and approach the experience with an open mind and a willingness to learn. Your actions will not only demonstrate respect for Thai culture but also contribute to a harmonious and meaningful encounter with the country's spiritual traditions.
 
 #### Thai Culture: Don'ts in Thai Temples
+
+![a](https://chailaiorchid.com/wp-content/uploads/2021/04/If-possible-have-a-designated-toilet-and-bathroom-as-well.-724x1024.jpg)
 
 When visiting the magnificent temples of Thailand, it is important to not only understand the do's but also be aware of the don'ts to ensure a respectful and harmonious experience. Thai temples, known as "wats," hold immense religious and cultural significance, and by adhering to these guidelines, you can show respect for the local customs and traditions. Let's explore some essential don'ts when visiting Thai temples.
 
